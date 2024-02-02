@@ -2,7 +2,8 @@
 
 Ahh the project just changed since I don't know Zig :D
 
-Alright basic baseline:
+Projects
+================
 
 - Do Ziglings
 - Write a command-line tool such as Echo, Cat, etc.
@@ -22,11 +23,11 @@ Alright basic baseline:
 - Make a personal project (Zigote)
 - Engage in the Zig forums
 
-================
+
 Resources
 ================
 
-Learn Zig: https://ziglang.org/learn/  
-zig.guide: https://zig.guide/  
-Zig on Exercism: https://exercism.org/tracks/zig  
-Zig forums: https://ziggit.dev/  
+- https://ziglang.org/learn/  
+- https://zig.guide/  
+- https://exercism.org/tracks/zig  
+- https://ziggit.dev/  
